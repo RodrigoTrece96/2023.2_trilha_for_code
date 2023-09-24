@@ -1,4 +1,4 @@
-#Questão 2
+#Questão 1
 
 texto = """Python é uma linguagem de programação de alto nível, [5] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. 
 Foi lançada por Guido van Rossum em 1991. 
