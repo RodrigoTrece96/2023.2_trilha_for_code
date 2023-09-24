@@ -9,3 +9,5 @@ figurinhas_organizadas.sort()
 figurinhas_organizadas = ",".join(figurinhas_organizadas)
 
 print('As figurinhas em ordem alfabética são: \n', figurinhas_organizadas)
+
+#Como tirar esse espaço que fica antes de "ARG15"- pelo método strip?
