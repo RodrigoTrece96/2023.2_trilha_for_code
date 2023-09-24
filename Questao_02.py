@@ -6,4 +6,6 @@ figurinhas_organizadas = figurinhas.split(",")
 
 figurinhas_organizadas.sort()
 
+figurinhas_organizadas = ",".join(figurinhas_organizadas)
+
 print('As figurinhas em ordem alfabética são: \n', figurinhas_organizadas)
